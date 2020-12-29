@@ -24,10 +24,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Doctor of Science (Technology)
+  - course: PhD in Computer Science
     institution: Aalto University
     year: 2018
-  - course: Master of Science (Technology)
+  - course: MSc in Computer Science
     institution: Aalto University
     year: 2013
 
@@ -65,4 +65,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+
+I'm a Research Scientist at Google Zürich, working on Natural Language Generation. Before joining Google, I did my PhD at Aalto University under the supervision of prof. Aris Gionis. For my thesis, I developed machine learning methods for linking historical population records and inferring family trees.
 
