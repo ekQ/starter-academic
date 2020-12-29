@@ -13,7 +13,7 @@ organizations:
 - name: Google
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a Research Scientist at Google, working on Natural Language Generation.
 
 # Interests to show in About widget
 interests:
@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:first.last@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ericmalmi
@@ -66,5 +66,8 @@ email: ""
 highlight_name: false
 ---
 
-I'm a Research Scientist at Google Zürich, working on Natural Language Generation. Before joining Google, I did my PhD at Aalto University under the supervision of prof. Aris Gionis. For my thesis, I developed machine learning methods for linking historical population records and inferring family trees.
+I'm a Research Scientist at Google Zürich, working on Natural Language Generation.
+Before joining Google, I did my PhD at [Aalto University](https://www.aalto.fi/en) under the supervision of prof. Aris Gionis.
+In my [dissertation](https://aaltodoc.aalto.fi/handle/123456789/31841), I developed machine learning and data mining methods for linking historical population records and inferring large family trees.
 
+You can read more about other (side) projects I did during my PhD from my old blog: [mining4meaning.com](https://mining4meaning.com/)
