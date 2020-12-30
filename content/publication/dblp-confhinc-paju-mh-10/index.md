@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2010-01-01'
-lastmod: 2020-12-30T00:52:59+01:00
+lastmod: 2020-12-30T23:00:51+01:00
 featured: false
 draft: false
 
@@ -29,12 +29,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-29T23:59:21.028281Z'
+publishDate: '2020-12-30T22:00:51.452290Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*History of Nordic Computing 3 - Third IFIP WG 9.7 Conference, HiNC
   3, Stockholm, Sweden, October 18-20, 2010, Revised Selected Papers*'
 url_pdf: https://doi.org/10.1007/978-3-642-23315-9_49
-doi: 10.1007/978-3-642-23315-9_49
+# doi: 10.1007/978-3-642-23315-9_49
 ---

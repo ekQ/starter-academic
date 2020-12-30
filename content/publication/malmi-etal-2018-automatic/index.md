@@ -1,17 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'AncestryAI: A Tool for Exploring Computationally Inferred Family Trees'
+title: Automatic Prediction of Discourse Connectives
 subtitle: ''
 summary: ''
 authors:
 - Eric Malmi
-- Marko Rasa
-- Aristides Gionis
+- Daniele Pighin
+- Sebastian Krause
+- Mikhail Kozhevnikov
 tags: []
 categories: []
-date: '2017-01-01'
-lastmod: 2020-12-30T23:00:47+01:00
+date: '2018-05-01'
+lastmod: 2020-12-30T23:00:45+01:00
 featured: false
 draft: false
 
@@ -29,12 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-30T22:00:47.277704Z'
+publishDate: '2020-12-30T22:00:45.120106Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the 26th International Conference on World Wide Web
-  Companion, Perth, Australia, April 3-7, 2017*'
-url_pdf: https://doi.org/10.1145/3041021.3054728
-# doi: 10.1145/3041021.3054728
+publication: '*Proceedings of the Eleventh International Conference on Language Resources
+  and Evaluation (LREC 2018)*'
+url_pdf: https://www.aclweb.org/anthology/L18-1260
 ---

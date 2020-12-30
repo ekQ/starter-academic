@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2014-01-01'
-lastmod: 2020-12-30T00:52:57+01:00
+lastmod: 2020-12-30T23:00:49+01:00
 featured: false
 draft: false
 
@@ -27,12 +27,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-29T23:59:18.427795Z'
+publishDate: '2020-12-30T22:00:49.089816Z'
 publication_types:
 - '1'
 abstract: ''
 publication: "*The 2014 ACM Conference on Ubiquitous Computing, UbiComp '14 Adjunct,\
   \ Seattle, WA, USA - September 13 - 17, 2014*"
 url_pdf: https://doi.org/10.1145/2638728.2641698
-doi: 10.1145/2638728.2641698
+# doi: 10.1145/2638728.2641698
 ---

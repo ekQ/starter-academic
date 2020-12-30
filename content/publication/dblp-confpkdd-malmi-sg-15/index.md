@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2015-01-01'
-lastmod: 2020-12-30T00:52:57+01:00
+lastmod: 2020-12-30T23:00:49+01:00
 featured: false
 draft: false
 
@@ -29,12 +29,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-29T23:59:17.850989Z'
+publishDate: '2020-12-30T22:00:48.611494Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Machine Learning and Knowledge Discovery in Databases - European Conference,
   ECML PKDD 2015, Porto, Portugal, September 7-11, 2015, Proceedings, Part II*'
 url_pdf: https://doi.org/10.1007/978-3-319-23525-7_25
-doi: 10.1007/978-3-319-23525-7_25
+# doi: 10.1007/978-3-319-23525-7_25
 ---

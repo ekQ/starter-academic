@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2020-12-30T00:52:56+01:00
+lastmod: 2020-12-30T23:00:48+01:00
 featured: false
 draft: false
 
@@ -31,12 +31,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-29T23:59:16.956948Z'
+publishDate: '2020-12-30T22:00:47.884357Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge
   Discovery and Data Mining, San Francisco, CA, USA, August 13-17, 2016*'
 url_pdf: https://doi.org/10.1145/2939672.2939679
-doi: 10.1145/2939672.2939679
+# doi: 10.1145/2939672.2939679
 ---

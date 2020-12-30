@@ -68,6 +68,6 @@ highlight_name: false
 
 I'm a Research Scientist at Google Zürich, working on Natural Language Generation.
 Before joining Google, I did my PhD at [Aalto University](https://www.aalto.fi/en) under the supervision of prof. Aris Gionis.
-In my [dissertation](https://aaltodoc.aalto.fi/handle/123456789/31841), I developed machine learning and data mining methods for linking historical population records and inferring large family trees.
+In my [dissertation](https://aaltodoc.aalto.fi/handle/123456789/31841), I developed machine learning and data mining methods for linking historical population records and for inferring large family trees.
 
 You can read more about other (side) projects I did during my PhD from my old blog: [mining4meaning.com](https://mining4meaning.com/)

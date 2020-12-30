@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2012-01-01'
-lastmod: 2020-12-30T00:52:58+01:00
+lastmod: 2020-12-30T23:00:50+01:00
 featured: false
 draft: false
 
@@ -32,12 +32,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-29T23:59:19.445334Z'
+publishDate: '2020-12-30T22:00:49.956561Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Advances in Intelligent Data Analysis XI - 11th International Symposium,
   IDA 2012, Helsinki, Finland, October 25-27, 2012. Proceedings*'
 url_pdf: https://doi.org/10.1007/978-3-642-34156-4_19
-doi: 10.1007/978-3-642-34156-4_19
+# doi: 10.1007/978-3-642-34156-4_19
 ---

@@ -1,17 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'AncestryAI: A Tool for Exploring Computationally Inferred Family Trees'
+title: Semi-supervised anomaly detection--towards model-independent searches of new
+  physics
 subtitle: ''
 summary: ''
 authors:
+- Mikael Kuusela
+- Tommi Vatanen
 - Eric Malmi
-- Marko Rasa
-- Aristides Gionis
+- Tapani Raiko
+- Timo Aaltonen
+- Yoshikazu Nagai
 tags: []
 categories: []
-date: '2017-01-01'
-lastmod: 2020-12-30T23:00:47+01:00
+date: '2012-01-01'
+lastmod: 2020-12-30T23:00:52+01:00
 featured: false
 draft: false
 
@@ -29,12 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-30T22:00:47.277704Z'
+publishDate: '2020-12-30T22:00:52.517291Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the 26th International Conference on World Wide Web
-  Companion, Perth, Australia, April 3-7, 2017*'
-url_pdf: https://doi.org/10.1145/3041021.3054728
-# doi: 10.1145/3041021.3054728
+publication: '*Journal of Physics: Conference Series*'
 ---
