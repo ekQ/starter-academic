@@ -1,10 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'EdiT5: Semi-Autoregressive Text-Editing with T5 Warm-Start'
+title: Teaching small language models to reason
 subtitle: ''
 summary: ''
 authors:
+- Lucie Charlotte Magister
 - Jonathan Mallinson
 - Jakub Adamek
 - Eric Malmi
@@ -12,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-06-07T23:56:44+02:00
+lastmod: 2023-03-08T22:14:22+01:00
 featured: false
 draft: false
 
@@ -30,10 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-07T21:56:44.242577Z'
+publishDate: '2023-03-08T21:14:22.066212Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Findings of EMNLP 2022*'
-url_pdf: https://aclanthology.org/2022.findings-emnlp.156/
+publication: '*arXiv preprint arXiv:2212.08410*'
 ---
