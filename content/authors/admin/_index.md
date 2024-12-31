@@ -1,11 +1,7 @@
 ---
 title: Eric Malmi
-role: Senior Research Scientist
-bio: I'm a Research Scientist at Google, working on Natural Language Generation.
-interests:
-  - Natural Language Processing
-  - Machine Learning and Data Mining
-  - Computational Social Science
+role: Staff Research Scientist
+bio: I'm a Research Scientist at Google DeepMind, working on Gemini post-training.
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,21 +19,11 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/eric-malmi-7949053
 organizations:
-  - name: Google
-education:
-  courses:
-    - course: PhD in Computer Science
-      institution: Aalto University
-      year: 2018
-    - course: MSc in Computer Science
-      institution: Aalto University
-      year: 2013
+  - name: Google DeepMind
 email: ""
 superuser: true
 highlight_name: false
 ---
-I'm a Research Scientist and Tech Lead Manager at Google Zürich, working on Natural Language Generation.
+I'm a Research Scientist and Manager at Google DeepMind, Zürich, working on Gemini post-training (planning & reasoning, distillation).
 Before joining Google, I did my PhD at [Aalto University](https://www.aalto.fi/en) under the supervision of prof. Aris Gionis.
-In my [dissertation](https://aaltodoc.aalto.fi/handle/123456789/31841), I developed machine learning and data mining methods for linking historical population records and for inferring large family trees.
-
-You can read more about other (side) projects I did during my PhD from my old blog: [mining4meaning.com](https://mining4meaning.com/)
+In my [dissertation](https://aaltodoc.aalto.fi/handle/123456789/31841), I developed machine learning methods for linking historical population records and for inferring large family trees.
