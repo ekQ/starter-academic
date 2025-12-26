@@ -1,7 +1,7 @@
 ---
 title: Eric Malmi
 role: Research Scientist & Adjunct Professor
-avatar_filename: ""
+avatar_filename: eric_bw_square.jpeg
 bio: I'm a Staff Research Scientist at Google DeepMind, working on Gemini
   post-training, and an Adjunct Professor at Aalto University.
 social:
@@ -21,7 +21,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/eric-malmi-7949053
 organizations:
-  - name: Google DeepMind & Aalto University
+  - name: Google DeepMind
+  - name: Aalto University
 email: ""
 superuser: true
 highlight_name: false
