@@ -1,7 +1,8 @@
 ---
 title: Eric Malmi
-role: Staff Research Scientist & Adjunct Professor
-bio: I'm a Research Scientist at Google DeepMind, working on Gemini post-training, and an Adjunct Professor at Aalto University.
+role: Research Scientist & Adjunct Professor
+bio: I'm a Staff Research Scientist at Google DeepMind, working on Gemini
+  post-training, and an Adjunct Professor at Aalto University.
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,5 +25,5 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I'm a Research Scientist and Manager at Google DeepMind in Helsinki, Finland (previously Zürich, Switzerland), where I lead a Gemini post-training team working on user signals.
+I'm a Staff Research Scientist and Manager at Google DeepMind in Helsinki, Finland (previously Zürich, Switzerland), where I lead a Gemini post-training team working on user signals.
 I also work as an Adjunct Professor at Aalto University, teaching and doing research on Large Language Models and their interdisciplinary applications.
