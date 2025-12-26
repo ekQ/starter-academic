@@ -1,7 +1,7 @@
 ---
 title: Eric Malmi
-role: Staff Research Scientist
-bio: I'm a Research Scientist at Google DeepMind, working on Gemini post-training.
+role: Staff Research Scientist & Adjunct Professor
+bio: I'm a Research Scientist at Google DeepMind, working on Gemini post-training, and an Adjunct Professor at Aalto University.
 social:
   - icon: envelope
     icon_pack: fas
@@ -19,11 +19,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/eric-malmi-7949053
 organizations:
-  - name: Google DeepMind
+  - name: Google DeepMind & Aalto University
 email: ""
 superuser: true
 highlight_name: false
 ---
-I'm a Research Scientist and Manager at Google DeepMind, Zürich, working on Gemini post-training (planning & reasoning, distillation).
-Before joining Google, I did my PhD at [Aalto University](https://www.aalto.fi/en) under the supervision of prof. Aris Gionis.
-In my [dissertation](https://aaltodoc.aalto.fi/handle/123456789/31841), I developed machine learning methods for linking historical population records and for inferring large family trees.
+I'm a Research Scientist and Manager at Google DeepMind in Helsinki, Finland (previously Zürich, Switzerland), where I lead a Gemini post-training team working on user signals.
+I also work as an Adjunct Professor at Aalto University, teaching and doing research on Large Language Models and their interdisciplinary applications.
